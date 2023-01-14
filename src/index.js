@@ -16,10 +16,11 @@ template.innerHTML = /*html*/`
       height: 4rem;
       border: none;
       border-radius: 10px;
-      background-color: seagreen;
+      background-color: tomato;
       color: white;
     }
   </style>
+  <span>Foo</span>
   <button id="dec">-</button>
   <span id="count"></span>
   <button id="inc">+</button>`;
